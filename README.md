@@ -6,5 +6,5 @@ https://www.coursera.org/learn/applications-development-microservices-serverless
 - What are Microservices?
 - Comparison of Monolith vs. SOA vs. Microservices
 - Microservices Patterns (SPA, BFF, Strangler, Service discovery)
-- Microservices Anti-Patterns
+- Reading 1a: Microservices Anti-Patterns
 - Lab1a: Modernize JPetStore with Microservices
