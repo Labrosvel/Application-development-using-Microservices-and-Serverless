@@ -15,7 +15,7 @@ https://www.coursera.org/learn/applications-development-microservices-serverless
 - Creating REST APIs
 - Lab 2a: Creating a HELLO WORLD REST API
 - Making API Requests using CURL and Postman
-- Lab 2b: CRUD Operations
+- Lab 2b: CRUD Operations with Python
 - Documenting and Testing REST APIs with Swagger
 - Lab 2c: Creating a Swagger Documentation for REST API
 - Basics of GraphQL
